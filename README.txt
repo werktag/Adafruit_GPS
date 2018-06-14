@@ -1,3 +1,6 @@
+Fork of the Adafruit GPS library, to tack changes and improvements
+==================================================================
+
 This is the Adafruit GPS library - the ultimate GPS library
 for the ultimate GPS module!
 
